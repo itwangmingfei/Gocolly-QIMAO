@@ -1,0 +1,18 @@
+{
+  "redis_config": {
+    "addr": "127.0.0.1",
+    "port": "6379",
+    "password": "",
+    "db": 0
+  },
+  "database_config": {
+    "driver": "mysql",
+    "user" : "root",
+    "password": "root",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "database": "user",
+    "charset": "utf8",
+    "sqlstr": true
+  }
+}
